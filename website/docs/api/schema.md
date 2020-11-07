@@ -32,7 +32,7 @@ Files with those extensions: `.graphql`, `.graphqls` or `.gql` are supported by 
 
     $ graphql-inspector diff ./old-schema.graphql ./new-schema.gql
 
-## JSON file
+## JSON filexml
 
 A JSON file with introspection result can also be provided
 
